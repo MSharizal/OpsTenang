@@ -2,7 +2,7 @@
   "name": "generative-eternal",
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://<your-github-username>.github.io/<repository-name>",
+  "homepage": "https://msharizal.github.io/OpsTenang/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
