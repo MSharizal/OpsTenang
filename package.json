@@ -1,0 +1,24 @@
+{
+  "name": "generative-eternal",
+  "version": "1.0.0",
+  "description": "A generative web application inspired by Infinite Backrooms and Generative.Ink.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^4.5.5"
+  }
+}
